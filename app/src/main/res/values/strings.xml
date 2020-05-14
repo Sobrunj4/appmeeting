@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Meeting</string>
+    <string name="profile">profile</string>
+    <string name="shopping">shopping</string>
+    <string name="dashboard">dashboard</string>
+    <string name="info_login">Meeting Ning Tegal</string>
+    <string name="info_login_desc">Temukan ruang meeting, ruang kantor, ruang traning dalam hitungan menit</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">password</string>
+    <string name="tvProfile">Profile</string>
+    <string name="tvLogout">Logout</string>
+    <string name="tvnama_lengkap">Nama Lengkap</string>
+    <string name="tvno_handphone">No.Handphone</string>
+    <string name="tvsimpan">Simpan</string>
+    <string name="tvpassword">Password</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+</resources>
